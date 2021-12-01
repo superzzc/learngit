@@ -1,3 +1,5 @@
 this is a readme file for my git learning repository
 
-2021/12/01 today is first day of 12th
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+
